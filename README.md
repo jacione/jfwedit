@@ -24,7 +24,9 @@ The executable will be compiled as `~/just-freaking-write/dist/jfwedit.exe`. If 
 ```
 jfwedit
 ```
-in your terminal. If you're in Linux, I will once again assume you know what to do.
+in your terminal.
+
+If you're on Linux, I will once again assume you know what to do.
 
 ## Options
 There are currently three command-line arguments:
